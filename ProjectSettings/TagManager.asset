@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Owl
+  - Lightbeam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindScenes
+    uniqueID: 434052397
+    locked: 0
+  - name: Forest
+    uniqueID: 173602343
+    locked: 0
+  - name: Owl
+    uniqueID: 2182843671
+    locked: 0
+  - name: LightBeam
+    uniqueID: 1611708389
+    locked: 0
+  - name: Flashlight
+    uniqueID: 1991670225
+    locked: 0
